@@ -13,13 +13,23 @@ body {
   color: #4e4e4e;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
+h1 {
+  color: #000000;
+}
+h2 {
+  color: #000000;
+}
+h3 {
+  color: #000000;
+}
+h4 {
+  color: #000000;
+}
+h5 {
+  color: #000000;
+}
 h6 {
-  color: #1e1e1e;
+  color: #000000;
 }
 
 a {
@@ -107,7 +117,6 @@ a:hover {
 
 .paralax-mf {
   position: relative;
-  padding: 8rem 0;
 }
 
 .display-table {
